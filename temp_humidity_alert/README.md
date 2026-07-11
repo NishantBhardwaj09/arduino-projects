@@ -7,7 +7,7 @@ Reads temperature and humidity from a DHT11 sensor and turns on an LED when the 
  
 ## Photo
  
-![Wiring photo](temp_humidity_alert/wiring_photo.jpeg)
+![Wiring photo](wiring_photo.jpeg)
  
 ## What It Does
  
